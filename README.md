@@ -1,7 +1,7 @@
 # MaowsAdventure README
 
-This project is my final year project for university. This README contains project details and any relevant sources.
-Code files can be found in the Assets/Scripts folder.
+- This project is my final year project for university. This README contains project details and any relevant sources.
+- ***Code files can be found in the Assets/Scripts folder.***
 
 ## Controlling the Character
 

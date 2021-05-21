@@ -28,4 +28,5 @@ Navigate the world in search of items: coins, sushi, and toy balls. There are te
 
 ## Further Notes
 
-This game is a prototype and may be expanded or improved in the future.
+- This game is a prototype and may be expanded or improved in the future.
+- Last checked and tested at 6:00am 21/05/2021.

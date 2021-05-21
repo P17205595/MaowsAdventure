@@ -17,7 +17,15 @@ This project is my final year project for university. This README contains proje
 
 - **Escape Key**: Return to Main Menu
 
+## How to Play
+
+Navigate the world in search of items: coins, sushi, and toy balls. There are ten of each item to collect. You may have to get up high to reach many of the items!
+
 ## Sources
 
-- All prefabricated objects DO NOT belong to me and were made available in the Unity Asset Store by creators.
+- I must NOT be given credit for any prefabricated object or item. All prefab objects used in the project were made available for free in the Unity Asset Store by creators.
 - [Item pickup sound is ROYALTY FREE and available here](https://youtu.be/PLpv92m_SYc)
+
+## Further Notes
+
+This game is a prototype and may be expanded or improved in the future.

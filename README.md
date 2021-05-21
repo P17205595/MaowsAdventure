@@ -26,6 +26,7 @@ Navigate the world in search of items: coins, sushi, and toy balls. There are te
 
 - ALL ASSETS IN THE ASSET FOLDER ARE NOT MINE. I must NOT be given credit for anything in the Assets folder. All assets used in the project were made available for free in the Unity Asset Store by creators.
 - [Item pickup sound is ROYALTY FREE and available here.](https://youtu.be/PLpv92m_SYc)
+- The "Underwater" script is from the Standard Assets folder. All other scripts were created by me.
 
 ## Further Notes
 
